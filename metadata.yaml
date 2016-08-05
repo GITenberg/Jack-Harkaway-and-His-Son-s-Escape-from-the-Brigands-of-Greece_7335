@@ -1,0 +1,30 @@
+_repo: Jack-Harkaway-and-His-Son-s-Escape-from-the-Brigands-of-Greece_7335
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hemyng, Bracebridge
+    alias: Bracebridge, Samuel
+    birthdate: 1841
+    deathdate: 1901
+    gutenberg_agent_id: '2425'
+    url: http://www.gutenberg.org/2009/agents/2425
+description: ''
+gutenberg_bookshelf:
+- Greece
+- Children's Book Series
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7335'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brigands and robbers -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Greece -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Jack Harkaway and His Son's Escape from the Brigands of Greece
+url: http://www.gutenberg.org/ebooks/7335
